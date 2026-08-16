@@ -257,5 +257,7 @@ Detaylar için [`LICENSE`](LICENSE) dosyasına bakabilirsiniz.
 
 ---
 
+
+
 <p align="center"><strong>🎥 Capture · ⚡ Low Latency · 📡 Streaming · 🎛️ Control · 💾 Recording</strong></p>
 <p align="center"><strong>Made with ❤️ by EBS</strong></p>
